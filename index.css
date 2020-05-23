@@ -1,0 +1,90 @@
+body
+{
+	font-family: "Comic Sans MS";
+}
+
+.navbar
+{
+	background-color: #444444FF;
+	padding : 0px;
+}
+
+p
+{
+	text-align: justify;
+}
+.nav-link
+{
+	text-transform: uppercase;
+	color: #FFFFD4FF;
+	padding : 12px;
+}
+
+.other-links
+{
+	color :#182EE6FF;
+	margin-top : 15px;
+}
+
+.nav-item:hover
+{
+	background-color: black;
+}
+
+.nav-link:hover
+{
+	color : white;
+}
+
+.container
+{
+	margin : 0px;
+	max-width: 100%;
+}
+
+.col-8
+{
+	background-image: linear-gradient(to bottom,rgba(137,0,119,0.3), rgba(137,0,119,0.2));
+	padding :0px;
+}
+
+.col-2
+{
+	background-color: rgba(171,172,133,0.7);
+	padding : 0px;
+}
+
+#home
+{
+	margin : 20px;
+	font-style: italic;
+}
+
+.profile-pic
+{
+	float : left;
+	margin-right : 15px;
+	padding : 5px;
+}
+
+.icons
+{
+	margin : 20px;
+	text-align: center;
+}
+
+#about-me, #project, #contact, #experience
+{
+	margin : 20px;
+	margin-top : 30px;
+	clear : left;
+}
+
+footer
+{
+	color : white;
+	background-color: #444444FF;
+	text-align: center;
+	padding : 10px;
+
+}
